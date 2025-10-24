@@ -1,0 +1,17 @@
+body { 
+    background-color: rgb(127, 255, 223);
+    color: black;
+font-family: "Story Script", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: o;
+}
+
+button{
+    background-color: rgb(127, 255, 127);
+    color: black;
+    font-family: "Story Script", sans-serif;
+    
+}
